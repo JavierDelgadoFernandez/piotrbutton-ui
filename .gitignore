@@ -1,0 +1,7 @@
+# KDE
+.directory
+
+# Build files.
+node_modules/
+package-lock.json
+dist/
